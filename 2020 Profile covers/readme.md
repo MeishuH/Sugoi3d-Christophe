@@ -2,6 +2,8 @@
 
 ## Introducing Improved Slot Covers
 
+![Red Covers](/images/Red_slot_cover_-_Bottom.jpg)
+
 Hey everyone,
 
 If you’re tired of dirt and those annoying small filament pieces getting into your slots, I’ve got something you’ll love—improved slot covers! Once you start using them, you won't want to stop.
