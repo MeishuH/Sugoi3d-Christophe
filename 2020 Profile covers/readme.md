@@ -2,7 +2,7 @@
 
 ## Introducing Improved Slot Covers
 
-![Red Covers](/images/Red_slot_cover_-_Bottom.jpg)
+![Red Covers](https://github.com/MeishuH/Sugoi3d-Christophe/blob/main/2020%20Profile%20covers/Images/Red_slot_cover_-_Bottom.jpg)
 
 Hey everyone,
 
