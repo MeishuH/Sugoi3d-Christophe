@@ -10,7 +10,7 @@ Hey everyone,
 
 If you’re tired of dirt and those annoying small filament pieces getting into your slots, I’ve got something you’ll love—improved slot covers! Once you start using them, you won't want to stop.
 
-After experimenting with different existing printed slot covers, I decided to create a new, more reliable design. The usual covers often break upon insertion, making them pretty useless. My design addresses this issue, making the covers easier to insert and remove while preventing breakage. Check out the details in the “2020 Extrusion Slot Cover.pdf.” Although it might seem a bit overengineered, it doesn’t use much more filament than the usual covers.
+After experimenting with different existing printed slot covers, I decided to create a new, more reliable design. The usual covers often break upon insertion, making them pretty useless. My design addresses this issue, making the covers easier to insert and remove while preventing breakage. Check out the details in the [“2020 Extrusion Slot Cover.pdf.”](https://github.com/MeishuH/Sugoi3d-Christophe/blob/main/2020%20Profile%20covers/2020%20Extrusion%20Slot%20cover.pdf) Although it might seem a bit overengineered, it doesn’t use much more filament than the usual covers.
 
 ## How to Print
 
