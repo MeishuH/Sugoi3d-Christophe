@@ -4,6 +4,8 @@
 
 ![Red Covers](https://github.com/MeishuH/Sugoi3d-Christophe/blob/main/2020%20Profile%20covers/Images/Red_slot_cover_-_Bottom.jpg)
 
+![https://github.com/MeishuH/Sugoi3d-Christophe/blob/main/2020%20Profile%20covers/Images/V2.4_with_red_inserts.jpg](https://github.com/MeishuH/Sugoi3d-Christophe/blob/main/2020%20Profile%20covers/Images/V2.4_with_red_inserts.jpg)
+
 Hey everyone,
 
 If you’re tired of dirt and those annoying small filament pieces getting into your slots, I’ve got something you’ll love—improved slot covers! Once you start using them, you won't want to stop.
