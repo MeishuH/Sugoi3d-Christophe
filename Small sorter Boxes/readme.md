@@ -3,10 +3,11 @@
 ## Small Container Storage System
 
 
-![2m_tower](https://github.com/user-attachments/assets/6152280b-6929-4e05-a858-beeda59c7bee)
-
+![2m_tower](images/2m_tower.jpg) 
+<img src="images/2m_tower.jpg" height="200" />
 
 This modular storage system is designed for use with a specific transparent box sold in Japan. Availability outside Japan is uncertain, but feel free to contact us if you're interested—we may be able to arrange something.
+
 The system consists of two main components:
 1.	Small Storage Boxes – Fit inside the transparent container.
 2.	Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.
@@ -33,7 +34,8 @@ This system allows you to store the transparent boxes vertically. The main compo
 •	“Sikiri Carrier Nut Cover (Front & Back)” – Cosmetic covers for the nuts on top.
 🔹 Additional Variants & Connectors:
 •	No-Nut Version – Designed for direct attachment to shelves or tables.
-![Shelf-mode](https://github.com/user-attachments/assets/c0474ffb-d26b-4449-9b44-5567fb5c81bb)
+
+![Shelf-mode](images/Shelf-mode.jpg)
 
 •	Double-Height Version – Holds two transparent containers; useful for future expansions.
 •	No-Hole Version – A cleaner design without side holes if connectors aren’t needed.
@@ -50,7 +52,7 @@ These parts can be printed with 3-4 walls and 20% infill. The small boxes themse
 
 ## Additional Hardware
 
-![Build_time](https://github.com/user-attachments/assets/3167500c-b3d2-4c20-b508-7ec4a7d9575c)
+![Build_time](images/Build_time.jpg)
 
 As an example, for a 2m height tower, you need:
 •	4 × 2m M6 or M5 rods
