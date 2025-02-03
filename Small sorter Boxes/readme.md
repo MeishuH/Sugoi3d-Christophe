@@ -1,12 +1,9 @@
 # Small parts sorter system - By Sugoi3d.jp - Christophe
 
-## Introducing Improved Slot Covers
-
-![Red Covers](https://github.com/MeishuH/Sugoi3d-Christophe/blob/main/2020%20Profile%20covers/Images/Red_slot_cover_-_Bottom.jpg)
-
-![https://github.com/MeishuH/Sugoi3d-Christophe/blob/main/2020%20Profile%20covers/Images/V2.4_with_red_inserts.jpg](https://github.com/MeishuH/Sugoi3d-Christophe/blob/main/2020%20Profile%20covers/Images/V2.4_with_red_inserts.jpg)
-
 ## Small Container Storage System
+
+
+
 
 This modular storage system is designed for use with a specific transparent box sold in Japan. Availability outside Japan is uncertain, but feel free to contact us if you're interested—we may be able to arrange something.
 The system consists of two main components:
