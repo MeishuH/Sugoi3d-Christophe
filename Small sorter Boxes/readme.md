@@ -2,11 +2,11 @@
 
 ## Small Container Storage System
 
-
-![2m_tower](images/2m_tower.jpg) 
-<img src="images/2m_tower.jpg" height="200" />
+<img src="images/2m_tower.jpg" alt="2m_tower" align="left" height="600px" />
 
 This modular storage system is designed for use with a specific transparent box sold in Japan. Availability outside Japan is uncertain, but feel free to contact us if you're interested—we may be able to arrange something.
+
+
 
 The system consists of two main components:
 1.	Small Storage Boxes – Fit inside the transparent container.
@@ -21,17 +21,22 @@ Key features:
 •	Reinforced structure for added durability.
 •	Stackable design, even when combining different sizes.
 ________________________________________
+<br clear="left"/>
+
 ## 2. Storage System
+
 This system allows you to store the transparent boxes vertically. The main component is the “Sikiri Carrier”, which can be stacked and interlocked securely.
 🔹 Structural Features:
 •	Vertical holes (7.2mm diameter) to insert M6 or M5 rods for added stability, weight distribution, and prevention of lower-level compression.
 •	Mounting options: Can be secured to a shelf or table with screws.
+
 🔹 Required Parts for a Complete Tower:
 •	“Sikiri Carrier Foot 2” – Base of the tower, with space for long nuts to fix rods.
 •	“Sikiri Carrier” – Main stacking unit; print as many as needed for your desired height. Ca. 28 for 1 m height.
 •	“Sikiri Carrier Junction” – Connects two rods when building very tall towers.
 •	“Sikiri Carrier Top” – Secures the top of the tower; small nuts can be added for extra stability.
 •	“Sikiri Carrier Nut Cover (Front & Back)” – Cosmetic covers for the nuts on top.
+
 🔹 Additional Variants & Connectors:
 •	No-Nut Version – Designed for direct attachment to shelves or tables.
 
