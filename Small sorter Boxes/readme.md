@@ -9,8 +9,8 @@ This modular storage system is designed for use with a specific transparent box 
 
 
 The system consists of two main components:
-1.	Small Storage Boxes – Fit inside the transparent container.
-2.	Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.
+	1.	Small Storage Boxes – Fit inside the transparent container.
+	2.	Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.
 ________________________________________
 ## 1. Small Storage Boxes
 The main transparent container is divided into a 5×7 grid.
@@ -40,7 +40,7 @@ This system allows you to store the transparent boxes vertically. The main compo
 🔹 Additional Variants & Connectors:
 •	No-Nut Version – Designed for direct attachment to shelves or tables.
 
-![Shelf-mode](images/Shelf-mode.jpg)
+![Shelf-mode](Images/Shelf-mode.jpg)
 
 •	Double-Height Version – Holds two transparent containers; useful for future expansions.
 •	No-Hole Version – A cleaner design without side holes if connectors aren’t needed.
@@ -57,7 +57,7 @@ These parts can be printed with 3-4 walls and 20% infill. The small boxes themse
 
 ## Additional Hardware
 
-![Build_time](images/Build_time.jpg)
+![Build_time](Images/Build_time.jpg)
 
 As an example, for a 2m height tower, you need:
 •	4 × 2m M6 or M5 rods
