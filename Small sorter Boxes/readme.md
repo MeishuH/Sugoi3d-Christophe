@@ -2,7 +2,7 @@
 
 ## Small Container Storage System
 
-<img src="Small sorter Boxes/Images/2m_tower.jpg" alt="2m_tower" align="left" height="600px" />
+<img src="Images/2m_tower.jpg" alt="2m_tower" align="left" height="600px" />
 
 This modular storage system is designed for use with a specific transparent box sold in Japan. Availability outside Japan is uncertain, but feel free to contact us if you're interested—we may be able to arrange something.
 
