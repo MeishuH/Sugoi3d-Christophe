@@ -54,11 +54,14 @@ o	These are useful when mounting on uneven or non-horizontal surfaces.
 ________________________________________
 
 ## Print Settings
-These parts can be printed with 3-4 walls and 20% infill. The small boxes themselves have 2 perimeter-thick walls, using a 0.4mm nozzle.
+These parts can be printed with 3-4 walls and 20% infill. The small boxes themselves have 2 perimeter-thick walls, using a 0.4mm nozzle.  
+  
+Some attention needs to be given when printing the connectors. Since the tolerance gap between the connectors and the carriers is tight, you may need to slightly reduce the size of the connectors in the XY plane (but not the Z-axis) depending on your printer's settings. To start, print only the M10 connector pair and test the fit.  
+Regarding the “Plug Connector Screw M10”, if you experience suboptimal layer adhesion, consider increasing the number of walls to prevent breakage.  
+ 
+<img src="Images/Build_time.jpg" alt="Build_time" align="left" height="500px" margin-right ="16px" />
 
 ## Additional Hardware
-
-![Build_time](Images/Build_time.jpg)
 
 As an example, for a 2m height tower, you need:  
 •	4 × 2m M6 or M5 rods  
@@ -68,5 +71,7 @@ Alternatively, if only 1m length rods are available:
 •	8 × 1m M6 or M5 rods  
 •	8 × 30mm M6 or M5 nuts  
 •	4 × M6 or M5 nuts  
+  
+  <br clear="left"/>
   
 This storage system offers flexibility, stability, and customization to fit your needs. Let us know if you have any questions or specific requirements! 😊
