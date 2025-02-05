@@ -6,12 +6,14 @@ This modular storage system is designed for use with a specific transparent box 
 
 The system consists of two main components:  
   1. Small Storage Boxes – Fit inside the transparent container.    
-    2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
+  2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
 ________________________________________
 ## 1. Small Storage Boxes
 The main transparent container is divided into a 5×7 grid.  
 To start, print the “Sikiri Base Frame Circle”, which locks the small boxes in place and prevents movement when the container is closed.  
+ 
 The small storage boxes come in various sizes, from 1×1 up to 7×5, allowing you to customize the layout to your needs.    
+ 
 Key features:  
 •	Lipped edges for easy lifting and labeling.  
 •	Reinforced structure for added durability.  
@@ -23,6 +25,7 @@ ________________________________________
 ## 2. Storage System
 
 This system allows you to store the transparent boxes vertically. The main component is the “Sikiri Carrier”, which can be stacked and interlocked securely.  
+ 
 🔹 Structural Features:  
 •	Vertical holes (7.2mm diameter) to insert M6 or M5 rods for added stability, weight distribution, and prevention of lower-level compression.  
 •	Mounting options: Can be secured to a shelf or table with screws.  
@@ -33,6 +36,8 @@ This system allows you to store the transparent boxes vertically. The main compo
 •	“Sikiri Carrier Junction” – Connects two rods when building very tall towers.  
 •	“Sikiri Carrier Top” – Secures the top of the tower; small nuts can be added for extra  stability.  
 •	“Sikiri Carrier Nut Cover (Front & Back)” – Cosmetic covers for the nuts on top.  
+
+<br clear="left"/>
 
 🔹 Additional Variants & Connectors:  
 •	No-Nut Version – Designed for direct attachment to shelves or tables.  
@@ -49,7 +54,6 @@ This system allows you to store the transparent boxes vertically. The main compo
 o	“Plug connector Screw 4mm – 6mm”, combined with “ConterPlug connector screw 4mm” and “Plug connector Screw 4mm – 13mm”, combined with “ConterPlug screw 4mm” can be used to attach a carrier to a surface, but on a distance of 4,6 mm.   
 o	These are useful when mounting on uneven or non-horizontal surfaces.  
 ________________________________________
-<br clear="left"/>
 
 ## Print Settings
 These parts can be printed with 3-4 walls and 20% infill. The small boxes themselves have 2 perimeter-thick walls, using a 0.4mm nozzle.  
