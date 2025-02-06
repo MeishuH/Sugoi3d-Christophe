@@ -2,10 +2,8 @@
 
 
 
-<img src="Images/Storage_Example_2.jpg" alt="Storage_Example_2" height="500px" />
+<img src="Images/Storage_Example_2.jpg" alt="Storage_Example_2" align="left" height="500px" />
 
-
-## Small Container Storage System
 
 This modular storage system is designed for use with a specific transparent box sold in Japan. Availability outside Japan is uncertain, but feel free to contact us if you're interested—we may be able to arrange something.  
 
@@ -13,7 +11,7 @@ The system consists of two main components:
   1. Small Storage Boxes – Fit inside the transparent container.    
 
     2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
-
+<br clear="left"/>
 ________________________________________
 ## 1. Small Storage Boxes
 
