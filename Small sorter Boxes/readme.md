@@ -2,7 +2,7 @@
 
 
 
-<img src="Images/Storage_Example_2.jpg" alt="Storage_Example_2" height="400px" />
+<img src="Images/Storage_Example_2.jpg" alt="Storage_Example_2" height="500px" />
 
 
 ## Small Container Storage System
@@ -13,9 +13,11 @@ The system consists of two main components:
   1. Small Storage Boxes – Fit inside the transparent container.    
 
     2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
-    <img src="Images/Box-set.jpg" alt="Box-set" align="left" height="300px" margin-right ="16px" />
+
 ________________________________________
 ## 1. Small Storage Boxes
+
+<img src="Images/Box-set.jpg" alt="Box-set" align="left" height="250px" margin-right ="16px" />
 The main transparent container is divided into a 5×7 grid.  
 To start, print the “Sikiri Base Frame Circle”, which locks the small boxes in place and prevents movement when the container is closed.  
 
