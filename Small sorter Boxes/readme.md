@@ -47,7 +47,8 @@ This system allows you to store the transparent boxes vertically. The main compo
 <br clear="left"/>
 
   
-
+  
+  
 🔹 Additional Variants & Connectors:  
 •	No-Nut Version – Designed for direct attachment to shelves or tables.  
 
@@ -56,7 +57,7 @@ This system allows you to store the transparent boxes vertically. The main compo
 •	Double-Height Version – Holds two transparent containers; useful for future expansions.  
 •	No-Hole Version – A cleaner design without side holes if connectors aren’t needed.  
 
-<img src="Images/Connectors.jpg" alt="Connectors" align="left" height="400px" margin-right ="16px" />
+<img src="Images/Connectors.jpg" alt="Connectors" align="left" height="250px" margin-right ="16px" />
 🔹 Connector Options:  
 •	“Plug Connector Screw M10” & “Plug Connector Base with M10 Hole” – Joins two carriers horizontally.  
 •	“Plug Connector Screw 4mm” – Attaches a carrier to a surface without spacing.  
