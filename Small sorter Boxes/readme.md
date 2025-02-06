@@ -9,8 +9,8 @@ This modular storage system is designed for use with a specific transparent box 
 
 The system consists of two main components:  
   1. Small Storage Boxes – Fit inside the transparent container.    
-  2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
-<br clear="left"/>  
+    2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
+    <br clear="left"/>  
 ________________________________________
 
 ## 1. Small Storage Boxes
@@ -48,8 +48,8 @@ This system allows you to store the transparent boxes vertically. The main compo
 <br clear="left"/>
 
   
-  
-  
+
+
 🔹 Additional Variants & Connectors:  
 •	No-Nut Version – Designed for direct attachment to shelves or tables.  
 
@@ -92,4 +92,5 @@ Alternatively, if only 1m length rods are available:
 
   <br clear="left"/>
 ________________________________________
+
 This storage system offers flexibility, stability, and customization to fit your needs. Let us know if you have any questions or specific requirements! 😊
