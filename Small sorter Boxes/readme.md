@@ -10,8 +10,8 @@ This modular storage system is designed for use with a specific transparent box 
 The system consists of two main components:  
   1. Small Storage Boxes – Fit inside the transparent container.    
   2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
-________________________________________   
 <br clear="left"/>  
+________________________________________   
 
 ## 1. Small Storage Boxes
 
@@ -25,8 +25,8 @@ Key features:
 •	Lipped edges for easy lifting and labeling.  
 •	Reinforced structure for added durability.  
 •	Stackable design, even when combining different sizes.  
-________________________________________
 <br clear="left"/>  
+________________________________________
 
 ## 2. Storage System
 
@@ -58,16 +58,17 @@ This system allows you to store the transparent boxes vertically. The main compo
 •	Double-Height Version – Holds two transparent containers; useful for future expansions.  
 •	No-Hole Version – A cleaner design without side holes if connectors aren’t needed.  
 
-<img src="Images/Connectors.jpg" alt="Connectors" align="left" height="250px" margin-right ="16px" />
+<img src="Images/Connectors.jpg" alt="Connectors" align="left" height="250px" margin-right ="16px" />  
 🔹 Connector Options:  
 •	“Plug Connector Screw M10” & “Plug Connector Base with M10 Hole” – Joins two carriers horizontally.  
 •	“Plug Connector Screw 4mm” – Attaches a carrier to a surface without spacing.  
 •	Spacer Connectors:   
 o	“Plug connector Screw 4mm – 6mm”, combined with “ConterPlug connector screw 4mm” and “Plug connector Screw 4mm – 13mm”, combined with “ConterPlug screw 4mm” can be used to attach a carrier to a surface, but on a distance of 4,6 mm.   
 o	These are useful when mounting on uneven or non-horizontal surfaces.  
+<br clear="left"/>  
+________________________________________    
 
-________________________________________
-<br clear="left"/>
+
 ## Print Settings
 These parts can be printed with 3-4 walls and 20% infill. The small boxes themselves have 2 perimeter-thick walls, using a 0.4mm nozzle.  
 
