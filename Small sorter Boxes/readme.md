@@ -11,7 +11,7 @@ The system consists of two main components:
   1. Small Storage Boxes – Fit inside the transparent container.    
   2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
 <br clear="left"/>  
-________________________________________   
+________________________________________
 
 ## 1. Small Storage Boxes
 
@@ -58,7 +58,8 @@ This system allows you to store the transparent boxes vertically. The main compo
 •	Double-Height Version – Holds two transparent containers; useful for future expansions.  
 •	No-Hole Version – A cleaner design without side holes if connectors aren’t needed.  
 
-<img src="Images/Connectors.jpg" alt="Connectors" align="left" height="250px" margin-right ="16px" />  
+<img src="Images/Connectors.jpg" alt="Connectors" align="left" height="250px" margin-right ="16px" />   
+
 🔹 Connector Options:  
 •	“Plug Connector Screw M10” & “Plug Connector Base with M10 Hole” – Joins two carriers horizontally.  
 •	“Plug Connector Screw 4mm” – Attaches a carrier to a surface without spacing.  
@@ -66,7 +67,7 @@ This system allows you to store the transparent boxes vertically. The main compo
 o	“Plug connector Screw 4mm – 6mm”, combined with “ConterPlug connector screw 4mm” and “Plug connector Screw 4mm – 13mm”, combined with “ConterPlug screw 4mm” can be used to attach a carrier to a surface, but on a distance of 4,6 mm.   
 o	These are useful when mounting on uneven or non-horizontal surfaces.  
 <br clear="left"/>  
-________________________________________    
+________________________________________
 
 
 ## Print Settings
@@ -75,9 +76,9 @@ These parts can be printed with 3-4 walls and 20% infill. The small boxes themse
 Some attention needs to be given when printing the connectors. Since the tolerance gap between the connectors and the carriers is tight, you may need to slightly reduce the size of the connectors in the XY plane (but not the Z-axis) depending on your printer's settings. To start, print only the M10 connector pair and test the fit.  
 Regarding the “Plug Connector Screw M10”, if you experience suboptimal layer adhesion, consider increasing the number of walls to prevent breakage.  
 
-<img src="Images/Build_time.jpg" alt="Build_time" align="left" height="500px" margin-right ="16px" />
+## Additional Hardware  
 
-## Additional Hardware
+<img src="Images/Build_time.jpg" alt="Build_time" align="left" height="500px" margin-right ="16px" />  
 
 As an example, for a 2m height tower, you need:  
 •	4 × 2m M6 or M5 rods  
@@ -90,5 +91,5 @@ Alternatively, if only 1m length rods are available:
 •	4 × M6 or M5 nuts  
 
   <br clear="left"/>
-
+________________________________________
 This storage system offers flexibility, stability, and customization to fit your needs. Let us know if you have any questions or specific requirements! 😊
