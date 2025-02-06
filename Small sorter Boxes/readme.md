@@ -9,10 +9,10 @@ This modular storage system is designed for use with a specific transparent box 
 
 The system consists of two main components:  
   1. Small Storage Boxes – Fit inside the transparent container.    
+  2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
+________________________________________   
+<br clear="left"/>  
 
-    2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
-<br clear="left"/>
-________________________________________
 ## 1. Small Storage Boxes
 
 <img src="Images/Box-set.jpg" alt="Box-set" align="left" height="250px" margin-right ="16px" />
@@ -26,7 +26,8 @@ Key features:
 •	Reinforced structure for added durability.  
 •	Stackable design, even when combining different sizes.  
 ________________________________________
-<br clear="left"/>
+<br clear="left"/>  
+
 ## 2. Storage System
 
 <img src="Images/2m_tower.jpg" alt="2m_tower" align="left" height="600px" margin-right ="16px" />
