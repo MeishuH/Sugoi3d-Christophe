@@ -9,6 +9,7 @@ This modular storage system is designed for use with a specific transparent box 
 
 The system consists of two main components:  
   1. Small Storage Boxes – Fit inside the transparent container.    
+
     2 .  Vertical/Horizontal Storage System – Organizes and secures the containers efficiently.  
     <br clear="left"/>  
 ________________________________________
@@ -90,7 +91,7 @@ Alternatively, if only 1m length rods are available:
 •	8 × 30mm M6 or M5 nuts  
 •	4 × M6 or M5 nuts  
 
-  <br clear="left"/>
+  <br clear="left"/>  
 ________________________________________
 
 This storage system offers flexibility, stability, and customization to fit your needs. Let us know if you have any questions or specific requirements! 😊
