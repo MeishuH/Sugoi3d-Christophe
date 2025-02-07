@@ -37,7 +37,7 @@ ________________________________________
 This system allows you to store the transparent boxes vertically. The main component is the “Sikiri Carrier”, which can be stacked and interlocked securely.  
 
 🔹 Structural Features:  
-•	Vertical holes (7.2mm diameter) to insert M6 or M5 rods for added stability, weight distribution, and prevention of lower-level compression.  
+•	Vertical holes (7.2mm diameter) to insert M6 or M5 rods for added stability, weight distribution, and prevention of lower-level compression. Please consider using a drill or a reamer to ease the insertion of the threaded rods.  
 •	Mounting options: Can be secured to a shelf or table with screws.  
 
 🔹 Required Parts for a Complete Tower:  
@@ -47,6 +47,7 @@ This system allows you to store the transparent boxes vertically. The main compo
 •	“Sikiri Carrier Top” – Secures the top of the tower; small nuts can be added for extra  stability.  
 •	“Sikiri Carrier Nut Cover (Front & Back)” – Cosmetic covers for the nuts on top.  
 
+  A hammer may be necessary to persuade the carriers to fall in place when 4 rods are used.  
 <br clear="left"/>
 
   
